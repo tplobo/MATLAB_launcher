@@ -8,3 +8,5 @@ The files assume the following organization, but this can be changed in the comm
 - `Launch MATLAB_R2021a.app` app for double clicking and placement in Dock: copy it into `/Applications/MATLAB/` (depends on R2021a being in the same folder)
 
 The app file can be modified in Automator to launch a different version of MATLAB.
+
+Please note, [permissions in MacOS 15.1 can be finicky](https://discussions.apple.com/thread/255165673).
