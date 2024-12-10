@@ -9,4 +9,4 @@ The files assume the following organization, but this can be changed in the comm
 
 The app file can be modified in Automator to launch a different version of MATLAB.
 
-Please note, [permissions in MacOS 15.1 can be finicky](https://discussions.apple.com/thread/255165673).
+Please note, [permissions in MacOS 15.1 can be finicky](https://discussions.apple.com/thread/255165673). This [solution](https://apple.stackexchange.com/a/466484) has worked for me so far.
